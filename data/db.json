@@ -2,23 +2,23 @@
   "items": [
     {
       "id": 1,
-      "checked": true,
-      "item": "Almonds"
+      "checked": false,
+      "item": "Pizza"
     },
     {
       "id": 2,
       "checked": false,
-      "item": "Chips"
+      "item": "water"
     },
     {
       "id": 3,
       "checked": false,
-      "item": "Water"
+      "item": "crackers"
     },
     {
       "id": 4,
       "checked": false,
-      "item": "Cookies"
+      "item": "chips"
     }
   ]
 }
